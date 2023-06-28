@@ -1,3 +1,3 @@
 # Creative Bakery landing page
 
-[DEMO LINK] - (https://<your_account>.github.io/layout_creativeBakery/).
+[DEMO LINK] - (https://flocky674.github.io/layout_creativeBakery/).
